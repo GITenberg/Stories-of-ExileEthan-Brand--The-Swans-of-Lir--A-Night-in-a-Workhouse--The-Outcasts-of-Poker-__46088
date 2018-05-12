@@ -1,0 +1,31 @@
+_repo: Stories-of-ExileEthan-Brand--The-Swans-of-Lir--A-Night-in-a-Workhouse--The-Outcasts-of-Poker-__46088
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46088-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+description: ''
+gutenberg_issued: '2014-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exiles -- Fiction'
+- !lcc 'PN'
+tableOfContents: Ethan Brand / Nathaniel Hawthorne -- The swans of Lir / Gerald Griffin
+  -- A night in the workhouse / James Greenwood -- The outcasts of Poker Flat / Bret
+  Harte -- The man without a country / E.E. Hale -- Flight of a Tartar tribe / Thomas
+  De Quincey.
+title: Stories of Exile
+url: http://www.gutenberg.org/ebooks/46088
