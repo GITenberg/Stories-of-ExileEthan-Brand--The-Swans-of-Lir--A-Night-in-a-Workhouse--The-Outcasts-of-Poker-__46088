@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46088#Stories-of-ExileEthan-Brand--The-Swans-of-Lir--A-Night-in-a-Workhouse--The-Outcasts-of-Poker-_
 gutenberg_issued: '2014-06-24'
 gutenberg_type: Text
 identifiers:
